@@ -1,2 +1,1 @@
-# bokeparsita
-bokeparsita
+# [bokeparsita](https://bokeparsita.pages.dev)
